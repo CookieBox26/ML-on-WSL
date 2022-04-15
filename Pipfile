@@ -9,6 +9,7 @@ jax = "==0.3.4"
 trax = "==1.4.1"
 pytest = "==7.1.1"
 tensorflow = "==2.8.0"
+tensorflow-text = "==2.8.1"
 
 [dev-packages]
 
