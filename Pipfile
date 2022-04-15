@@ -8,6 +8,7 @@ jaxlib = {file = "https://storage.googleapis.com/jax-releases/cuda11/jaxlib-0.3.
 jax = "==0.3.4"
 trax = "==1.4.1"
 pytest = "==7.1.1"
+tensorflow = "==2.8.0"
 
 [dev-packages]
 
