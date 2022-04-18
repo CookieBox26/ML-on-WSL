@@ -10,6 +10,8 @@ trax = "==1.4.1"
 pytest = "==7.1.1"
 tensorflow = "==2.8.0"
 tensorflow-text = "==2.8.1"
+flax = "==0.4.1"
+torch = {file = "https://download.pytorch.org/whl/cu115/torch-1.11.0%2Bcu115-cp38-cp38-linux_x86_64.whl"}
 
 [dev-packages]
 
