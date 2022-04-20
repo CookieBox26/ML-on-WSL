@@ -4,6 +4,10 @@ import tensorflow_datasets as tfds
 class TestImdb:
 
     def test(self):
+        """
+        注意： このテストを実行すると以下に IMDB データセットがロードされる
+        ~/tensorflow_datasets/imdb_reviews/
+        """
         data = tfds.load('imdb_reviews')
         assert len(data['train']) == 25000
         assert len(data['test']) == 25000
