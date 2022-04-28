@@ -16,6 +16,7 @@ ml-collections = "*"
 jupyterlab = "*"
 seaborn = "*"
 ipywidgets = "*"
+reformer-pytorch = "*"
 
 [dev-packages]
 
