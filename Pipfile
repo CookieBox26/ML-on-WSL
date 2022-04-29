@@ -16,7 +16,8 @@ ml-collections = "*"
 jupyterlab = "*"
 seaborn = "*"
 ipywidgets = "*"
-reformer-pytorch = "*"
+reformer-pytorch = "==1.4.4"
+performer-pytorch = "==1.1.4"
 
 [dev-packages]
 
