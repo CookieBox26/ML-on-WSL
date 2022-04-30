@@ -18,6 +18,7 @@ seaborn = "*"
 ipywidgets = "*"
 reformer-pytorch = "==1.4.4"
 performer-pytorch = "==1.1.4"
+pytorch-fast-transformers = {git = "https://github.com/idiap/fast-transformers.git"}
 
 [dev-packages]
 
