@@ -9,7 +9,8 @@ pipenv install
 
 ### Run Tests
 ```
-pipenv run pytest
+pipenv run pytest ./tests/
+pipenv run pytest ./tests_tensorflow/
 ```
 
 ### Run Jupyter Lab
